@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-landing/static/css/main.584f321a.chunk.css",
+    "main.js": "/portfolio-landing/static/js/main.04a493b8.chunk.js",
+    "main.js.map": "/portfolio-landing/static/js/main.04a493b8.chunk.js.map",
+    "runtime~main.js": "/portfolio-landing/static/js/runtime~main.99036e1d.js",
+    "runtime~main.js.map": "/portfolio-landing/static/js/runtime~main.99036e1d.js.map",
+    "static/js/2.b41502e9.chunk.js": "/portfolio-landing/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/portfolio-landing/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/portfolio-landing/index.html",
+    "precache-manifest.0aff1e496e6f85da29cb000953847960.js": "/portfolio-landing/precache-manifest.0aff1e496e6f85da29cb000953847960.js",
+    "service-worker.js": "/portfolio-landing/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/portfolio-landing/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/portfolio-landing/static/media/logo.5d5d9eef.svg"
+  }
+}
